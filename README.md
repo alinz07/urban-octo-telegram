@@ -21,7 +21,7 @@ https://github.com/alinz07/urban-octo-telegram/blob/main/Develop/index.html
 ##**Link** to project repository: https://github.com/alinz07/urban-octo-telegram.git
 
 ###**Mockup**
-![Mockup of the web application](.\urban-octo-telegram\Develop\assets\images\Mock up.png)
+![Mockup of the web application](./urban-octo-telegram/Develop/assets/images/Mock up.png?raw=true)
 
 
 ####Credits
