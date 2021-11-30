@@ -30,7 +30,8 @@ Html and css comments significantly increase code readability.
 The logical flow of the html and css, the comments describing every section's code and consistent spacing/indentation make this web application beautiful.
 
 ## **Mockup**
-![Mockup-of-the-web-application](./Develop/assets/images/Mock&#32;up.png)
+![Mockup of the web application](./Develop/assets/images/Mock&#32;up.png)
+
 
 ### Credits
 -The starter code and all images were provided by UW Extended-Campus full stack coding bootcamp.
