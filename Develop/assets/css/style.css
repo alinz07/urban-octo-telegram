@@ -1,10 +1,11 @@
+/* apply universal defaults for containers and the sizing/fit of their child elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* apply default body text color  */
+/* apply default body background color  */
 body {
     background-color: #d9dcd6;
 }
@@ -77,16 +78,6 @@ p {
     max-height: 200px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .services-articles h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -127,9 +118,22 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 .footer h2 {
     font-size: 20px;
 }
+
+/* utility declarations */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 #heart-emoji {
     font-family: 'apple color emoji', 'segoe ui emoji', 'noto color emoji', 'android emoji', 'emojisymbols', 'emojione mozilla', 'twemoji mozilla', 'segoe ui symbol';
     font-weight: initial !important;
